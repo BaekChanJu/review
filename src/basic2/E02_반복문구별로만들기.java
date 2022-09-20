@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 //do ~ while - 반복횟수를 모르는 경우 (조건을 나중에비교)
 
-public class Ex02_반복문구분하기 {
+public class E02_반복문구별로만들기 {
 
 	public static void main(String[] args) {
 

@@ -20,9 +20,4 @@ public class EX03_2구글입사문제 {
 		System.out.println(sum);
 
 		}//main
-		// TODO Auto-generated method stub
-
-	
-
-
-/
+}

@@ -1,6 +1,6 @@
 package basic2;
 
-public class Ex01_while개념 {
+public class E01_while문개념 {
 
 	public static void main(String[] args) {
 		

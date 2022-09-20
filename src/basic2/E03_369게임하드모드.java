@@ -2,7 +2,7 @@ package basic2;
 
 import java.util.Scanner;
 
-public class EX03_1_369어려운 {
+public class E03_369게임하드모드 {
 
 	public static void main(String[] args) {
 		
