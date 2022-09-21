@@ -9,7 +9,6 @@ public class E03_369게임하드모드 {
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("num을 입력하시오: ");
-
 		int num = sc.nextInt();
 		int count = 0;
 

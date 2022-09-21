@@ -15,6 +15,9 @@ int[] lotto = new int[6];
 	
 		for(int i = lotto.length-1; i>0; i--) {
 			for(int j = 0; j<i; j++) {
+				
+				
+				
 				if(lotto[j]>lotto[j+1]) {
 					int temp = lotto[j];
 					lotto[j] = lotto[j+1];
